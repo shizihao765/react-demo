@@ -1,0 +1,25 @@
+.input{ border:3px solid #ae7000 }
+
+.my-test-enter{
+    opacity: 0.5;
+}
+
+.my-text-enter-active{
+    opacity: 1;
+    transition: opacity 500ms;
+}
+
+.my-text-enter-done{
+    opacity: 1;
+}
+.my-text-exit{
+    opacity: 1;
+}
+.my-text-exit-active{
+    opacity: 0.5;
+    transition: opacity 500ms;
+
+}
+.my-text-exit-done{
+    opacity: 0.5;
+} 

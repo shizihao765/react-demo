@@ -1,9 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import DynamicList from './DynamicList'
+import MyList from './MyList';
 
 ReactDOM.render(
-  <DynamicList></DynamicList>,
+  <MyList></MyList>,
   document.getElementById('root')
 );
 
